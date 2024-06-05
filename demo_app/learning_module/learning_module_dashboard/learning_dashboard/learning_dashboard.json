@@ -1,0 +1,29 @@
+{
+ "cards": [
+  {
+   "card": "card one"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "learning chart 1",
+   "width": "Full"
+  },
+  {
+   "chart": "learning dashboard 2",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-06-05 11:36:12.304506",
+ "dashboard_name": "learning Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2024-06-05 11:42:49.572479",
+ "modified_by": "Administrator",
+ "module": "learning module",
+ "name": "learning Dashboard",
+ "owner": "Administrator"
+}

@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2024-06-05 12:01:01.337112",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-06-05 12:02:07.393910",
+ "modified_by": "Administrator",
+ "module": "learning module",
+ "name": "learning-page",
+ "owner": "Administrator",
+ "page_name": "learning-page",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Demo Page"
+}

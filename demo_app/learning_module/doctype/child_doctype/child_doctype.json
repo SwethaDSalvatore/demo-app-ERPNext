@@ -1,0 +1,45 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-05-02 13:19:04.830407",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "rrr",
+  "ttt",
+  "yyy"
+ ],
+ "fields": [
+  {
+   "fieldname": "rrr",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "RRR"
+  },
+  {
+   "fieldname": "ttt",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "TTT"
+  },
+  {
+   "fieldname": "yyy",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "YYY"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-05-04 16:45:42.826576",
+ "modified_by": "Administrator",
+ "module": "learning module",
+ "name": "Child doctype",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

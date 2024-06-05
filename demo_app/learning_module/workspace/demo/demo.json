@@ -1,0 +1,193 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"ADo77X7SbV\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts <br></b></span>\",\"col\":12}},{\"id\":\"HIS6jWgHsy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Submittable Doctype\",\"col\":3}},{\"id\":\"rwodBpsdX7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Server side learning\",\"col\":3}},{\"id\":\"r55pGr7J3t\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Client Side learning\",\"col\":3}},{\"id\":\"tuHEA0xXfx\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Naming Series\",\"col\":3}},{\"id\":\"TpIKpVN_Mg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tree Doctype\",\"col\":3}},{\"id\":\"6p_hCznFg8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Normal Doctype\",\"col\":3}},{\"id\":\"LEUay3jM-i\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Report Builder\",\"col\":3}},{\"id\":\"d4nfdqHZCP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Query Report\",\"col\":3}},{\"id\":\"Yel_kz9VUF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":3}},{\"id\":\"Yoi4dmf0oV\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"mcQL82QbPM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>My Learning <br></b></span>\",\"col\":12}},{\"id\":\"4hf-ZPqXh6\",\"type\":\"card\",\"data\":{\"card_name\":\"Doctype\",\"col\":4}},{\"id\":\"tZNpdfcYxd\",\"type\":\"card\",\"data\":{\"card_name\":\"Others\",\"col\":4}},{\"id\":\"AFB7ix5-IQ\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Todo list\",\"col\":6}}]",
+ "creation": "2024-05-02 20:58:53.876584",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "heart-active",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Demo",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Doctype",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Normal Doctype",
+   "link_count": 0,
+   "link_to": "normal doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Submittable Doctype",
+   "link_count": 0,
+   "link_to": "submittable",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Single Doctype",
+   "link_count": 0,
+   "link_to": "single doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Child Doctype",
+   "link_count": 0,
+   "link_to": "normal doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Tree Doctype",
+   "link_count": 0,
+   "link_to": "Tree doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Others",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "First Demo",
+   "link_count": 0,
+   "link_to": "Demo Doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Naming series",
+   "link_count": 0,
+   "link_to": "naming_series",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-06-05 11:44:26.167543",
+ "modified_by": "Administrator",
+ "module": "learning module",
+ "name": "Demo",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "ToDo",
+   "label": "Todo list",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Server side learning",
+   "link_to": "Server Side Scripting",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Dashboard",
+   "link_to": "learning Dashboard",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Report Builder",
+   "link_to": "Server Side Report-1",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Naming Series",
+   "link_to": "naming_series",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Client Side learning",
+   "link_to": "Client Side Scripting",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Query Report",
+   "link_to": "Server Side Query Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Submittable Doctype",
+   "link_to": "submittable",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "Tree Doctype",
+   "link_to": "Tree doctype",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "Normal Doctype",
+   "link_to": "normal doctype",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Demo"
+}
