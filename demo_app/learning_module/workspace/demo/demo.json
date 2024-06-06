@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"ADo77X7SbV\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts <br></b></span>\",\"col\":12}},{\"id\":\"HIS6jWgHsy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Submittable Doctype\",\"col\":3}},{\"id\":\"rwodBpsdX7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Server side learning\",\"col\":3}},{\"id\":\"r55pGr7J3t\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Client Side learning\",\"col\":3}},{\"id\":\"tuHEA0xXfx\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Naming Series\",\"col\":3}},{\"id\":\"TpIKpVN_Mg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tree Doctype\",\"col\":3}},{\"id\":\"6p_hCznFg8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Normal Doctype\",\"col\":3}},{\"id\":\"LEUay3jM-i\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Report Builder\",\"col\":3}},{\"id\":\"d4nfdqHZCP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Query Report\",\"col\":3}},{\"id\":\"Yel_kz9VUF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":3}},{\"id\":\"Yoi4dmf0oV\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"mcQL82QbPM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>My Learning <br></b></span>\",\"col\":12}},{\"id\":\"4hf-ZPqXh6\",\"type\":\"card\",\"data\":{\"card_name\":\"Doctype\",\"col\":4}},{\"id\":\"tZNpdfcYxd\",\"type\":\"card\",\"data\":{\"card_name\":\"Others\",\"col\":4}},{\"id\":\"AFB7ix5-IQ\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Todo list\",\"col\":6}}]",
+ "content": "[{\"id\":\"ADo77X7SbV\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts <br></b></span>\",\"col\":12}},{\"id\":\"HIS6jWgHsy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Submittable Doctype\",\"col\":3}},{\"id\":\"rwodBpsdX7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Server side learning\",\"col\":3}},{\"id\":\"r55pGr7J3t\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Client Side learning\",\"col\":3}},{\"id\":\"tuHEA0xXfx\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Naming Series\",\"col\":3}},{\"id\":\"TpIKpVN_Mg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tree Doctype\",\"col\":3}},{\"id\":\"6p_hCznFg8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Normal Doctype\",\"col\":3}},{\"id\":\"LEUay3jM-i\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Report Builder\",\"col\":3}},{\"id\":\"d4nfdqHZCP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Query Report\",\"col\":3}},{\"id\":\"Yel_kz9VUF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":3}},{\"id\":\"myhx1n48tG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Demo Page\",\"col\":3}},{\"id\":\"Yoi4dmf0oV\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"mcQL82QbPM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>My Learning <br></b></span>\",\"col\":12}},{\"id\":\"4hf-ZPqXh6\",\"type\":\"card\",\"data\":{\"card_name\":\"Doctype\",\"col\":4}},{\"id\":\"tZNpdfcYxd\",\"type\":\"card\",\"data\":{\"card_name\":\"Others\",\"col\":4}},{\"id\":\"AFB7ix5-IQ\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Todo list\",\"col\":6}}]",
  "creation": "2024-05-02 20:58:53.876584",
  "custom_blocks": [],
  "docstatus": 0,
@@ -101,7 +101,7 @@
    "type": "Link"
   }
  ],
- "modified": "2024-06-05 11:44:26.167543",
+ "modified": "2024-06-06 19:31:55.651434",
  "modified_by": "Administrator",
  "module": "learning module",
  "name": "Demo",
@@ -140,6 +140,13 @@
    "label": "Report Builder",
    "link_to": "Server Side Report-1",
    "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Demo Page",
+   "link_to": "learning-page",
+   "type": "Page"
   },
   {
    "color": "Grey",
